@@ -18,6 +18,11 @@
 	url = https://github.com/anthonychristidis/psgd
 	shallow = true
 	registered = true
+[submodule "RPEGLMEN"]
+	path = RPEGLMEN
+	url = https://github.com/cran/RPEGLMEN
+	shallow = true
+	registered = true
 [submodule "RPEIF"]
 	path = RPEIF
 	url = https://github.com/anthonychristidis/rpeif
