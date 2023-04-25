@@ -20,7 +20,7 @@
 	registered = true
 [submodule "RPEGLMEN"]
 	path = RPEGLMEN
-	url = https://github.com/cran/RPEGLMEN
+	url = https://github.com/anthonychristidis/rpeglmen
 	shallow = true
 	registered = true
 [submodule "RPEIF"]
