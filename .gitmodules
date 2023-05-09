@@ -18,6 +18,11 @@
 	url = https://github.com/anthonychristidis/psgd
 	shallow = true
 	registered = true
+[submodule "robStepSplitReg"]
+	path = robStepSplitReg
+	url = https://github.com/anthonychristidis/robstepsplitreg
+	shallow = true
+	registered = true
 [submodule "RPEGLMEN"]
 	path = RPEGLMEN
 	url = https://github.com/anthonychristidis/rpeglmen
