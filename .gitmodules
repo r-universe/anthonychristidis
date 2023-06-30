@@ -38,6 +38,9 @@
 [submodule "splitSelect"]
 	path = splitSelect
 	url = https://github.com/anthonychristidis/splitselect
+[submodule "srlars"]
+	path = srlars
+	url = https://github.com/anthonychristidis/srlars
 [submodule "stepSplitReg"]
 	path = stepSplitReg
 	url = https://github.com/anthonychristidis/stepsplitreg
