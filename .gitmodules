@@ -5,18 +5,12 @@
 [submodule "CPGLIB"]
 	path = CPGLIB
 	url = https://github.com/anthonychristidis/cpglib
-[submodule "nnGarrote"]
-	path = nnGarrote
-	url = https://github.com/anthonychristidis/nngarrote
 [submodule "PSGD"]
 	path = PSGD
 	url = https://github.com/anthonychristidis/psgd
 [submodule "RMSS"]
 	path = RMSS
 	url = https://github.com/anthonychristidis/rmss
-[submodule "robStepSplitReg"]
-	path = robStepSplitReg
-	url = https://github.com/anthonychristidis/robstepsplitreg
 [submodule "RPEGLMEN"]
 	path = RPEGLMEN
 	url = https://github.com/anthonychristidis/rpeglmen
@@ -26,15 +20,21 @@
 [submodule "RPESE"]
 	path = RPESE
 	url = https://github.com/anthonychristidis/rpese
-[submodule "simTargetCov"]
-	path = simTargetCov
-	url = https://github.com/anthonychristidis/simtargetcov
 [submodule "SplitGLM"]
 	path = SplitGLM
 	url = https://github.com/anthonychristidis/splitglm
 [submodule "SplitReg"]
 	path = SplitReg
 	url = https://github.com/anthonychristidis/splitreg
+[submodule "nnGarrote"]
+	path = nnGarrote
+	url = https://github.com/anthonychristidis/nngarrote
+[submodule "robStepSplitReg"]
+	path = robStepSplitReg
+	url = https://github.com/anthonychristidis/robstepsplitreg
+[submodule "simTargetCov"]
+	path = simTargetCov
+	url = https://github.com/anthonychristidis/simtargetcov
 [submodule "splitSelect"]
 	path = splitSelect
 	url = https://github.com/anthonychristidis/splitselect
